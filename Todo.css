@@ -1,0 +1,13 @@
+button:hover {
+    background-color: red;
+}
+button {
+    border-radius: 10px;
+}
+body {
+    background-color: rgb(218, 218, 233);
+}
+.in {
+    border: solid; 
+    border-radius: 10px;   
+}
